@@ -763,6 +763,8 @@ deformity	-2
 defraud	-3
 defrauds	-3
 deft	2
+επιτήδειος 2  
+//Nanou Nastika-Navsika 2013015 CSCW
 defunct	-2
 degrade	-2
 degraded	-2
@@ -1063,10 +1065,14 @@ dying	-3
 dysfunction	-2
 eager	2
 earnest	2
+ειλικρινής 2
+//Nanou Nastika-Navsika 2013015 CSCW
 ease	2
 easy	1
 ecstatic	4
 eerie	-2
+ανατριχιαστικός -2
+//Nanou Nastika-Navsika 2013015 CSCW
 eery	-2
 effective	2
 effectively	2
@@ -1117,6 +1123,8 @@ enlightened	2
 enlightening	2
 enlightens	2
 ennui	-2
+ανία -2
+//Nanou Nastika-Navsika 2013015 CSCW
 enrage	-2
 enraged	-2
 enrages	-2
@@ -1253,6 +1261,8 @@ farce	-1
 fascinate	3
 fascinated	3
 fascinates	3
+γοητεύεις 3
+//Nanou Nastika-Navsika 2013015 CSCW
 fascinating	3
 fascination	3
 fascist	-2
@@ -1291,6 +1301,8 @@ fed up	-3
 feeble	-2
 feeling	1
 felonies	-3
+κακουργήματα -3
+//Nanou Nastika-Navsika 2013015 CSCW
 felony	-3
 fertile	2
 fervent	2
@@ -1298,6 +1310,8 @@ fervid	2
 festive	2
 fever	-2
 fiasco	-3
+παταγώδης αποτυχία -3
+//Nanou Nastika-Navsika 2013015 CSCW
 fidgety	-2
 fight	-1
 fighting	-2
@@ -1575,6 +1589,8 @@ heroic	3
 hesitant	-2
 hesitate	-2
 hid	-1
+κρύβω -1
+//Nanou Nastika-Navsika 2013015 CSCW
 hide	-1
 hideous	-3
 hides	-1
@@ -1738,6 +1754,8 @@ inefficiency	-2
 inefficient	-2
 inefficiently	-2
 inept	-2
+ανίκανος -2
+//Nanou Nastika-Navsika 2013015 CSCW
 ineptitude	-2
 infantile	-2
 infantilized	-2
@@ -1881,6 +1899,8 @@ justice	2
 justifiably	2
 justified	2
 keen	1
+επιμελής 1
+//Nanou Nastika-Navsika 2013015 CSCW
 kickback	-3
 kickbacks	-3
 kidnap	-2
@@ -2023,6 +2043,8 @@ manipulated	-1
 manipulating	-1
 manipulation	-1
 manslaughter	-3
+ανθρωποκτονία -3
+//Nanou Nastika-Navsika 2013015 CSCW
 marvel	3
 marvelous	3
 marvels	3
@@ -2036,6 +2058,8 @@ meaningless	-2
 medal	3
 mediocrity	-3
 meditative	1
+στοχαστικός 1
+//Nanou Nastika-Navsika 2013015 CSCW
 melancholy	-2
 memorable	1
 memoriam	-2
@@ -2155,6 +2179,8 @@ murdering	-3
 murderous	-3
 murders	-2
 murky	-2
+θολός -2
+//Nanou Nastika-Navsika 2013015 CSCW
 myth	-1
 n00b	-2
 naive	-2
@@ -2223,6 +2249,8 @@ offensive	-2
 offensively	-2
 offline	-1
 oks	2
+σύμφωνοι 2
+//Nanou Nastika-Navsika 2013015 CSCW
 ominous	3
 once-in-a-lifetime	3
 oops	-2
@@ -2331,6 +2359,8 @@ pileup	-1
 pillage	-2
 pique	-2
 piqued	-2
+θυμός -2
+//Nanou Nastika-Navsika 2013015 CSCW
 piss	-4
 pissed	-4
 pissing	-3
@@ -2403,6 +2433,8 @@ prevented	-1
 preventing	-1
 prevents	-1
 prick	-5
+τρυπάω -5 
+//Nanou Nastika-Navsika 2013015 CSCW
 prison	-2
 prisoner	-2
 prisoners	-2
@@ -2474,12 +2506,16 @@ rage	-2
 rageful	-2
 rainy	-1
 rant	-3
+παραλήρημα  -3
+//Nanou Nastika-Navsika 2013015 CSCW
 ranter	-3
 ranters	-3
 rants	-3
 rape	-4
 raped	-4
 rapist	-4
+βιαστής -4
+//Nanou Nastika-Navsika 2013015 CSCW
 rapture	2
 raptured	2
 raptures	2
@@ -2525,6 +2561,8 @@ rejection	-2
 rejects	-1
 rejoice	4
 rejoiced	4
+χαρούμενος  4
+//Nanou Nastika-Navsika 2013015 CSCW
 rejoices	4
 rejoicing	4
 relaxed	2
@@ -2540,6 +2578,8 @@ relieving	2
 relishing	2
 remarkable	2
 remorse	-2
+τύψη -2
+//Nanou Nastika-Navsika 2013015 CSCW
 repellent	-2
 repercussion	-2
 repercussions	-2
@@ -2653,6 +2693,8 @@ salutes	2
 saluting	2
 salvation	2
 sappy	-1
+γλυκανάλατος  -1
+//Nanou Nastika-Navsika 2013015 CSCW
 sarcastic	-2
 satisfied	2
 savange	-2
@@ -2666,6 +2708,8 @@ scandal	-3
 scandalous	-3
 scandals	-3
 scapegoat	-2
+αποδιοπομπαίος τράγος -2
+//Nanou Nastika-Navsika 2013015 CSCW
 scapegoats	-2
 scare	-2
 scared	-2
@@ -2758,6 +2802,8 @@ skeptical	-2
 skepticism	-2
 skeptics	-2
 slam	-2
+κοπανάω -2
+//Nanou Nastika-Navsika 2013015 CSCW
 slash	-2
 slashed	-2
 slashes	-2
@@ -2813,6 +2859,8 @@ solving	1
 somber	-2
 some kind	0
 son-of-a-bitch	-5
+καθίκι -5
+//Nanou Nastika-Navsika 2013015 CSCW
 soothe	3
 soothed	3
 soothing	3
@@ -2887,6 +2935,8 @@ stopped	-1
 stopping	-1
 stops	-1
 stout	2
+στρουμπουλός  2
+//Nanou Nastika-Navsika 2013015 CSCW
 straight	1
 strange	-1
 strangely	-1
@@ -2921,7 +2971,11 @@ stupid	-2
 stupidity	-3
 stupidly	-2
 suave	2
+μειλίχιος  2
+//Nanou Nastika-Navsika 2013015 CSCW
 subpoena	-2
+κλήτευση -2
+//Nanou Nastika-Navsika 2013015 CSCW
 substantial	1
 substantially	1
 subversive	-2
@@ -2953,6 +3007,8 @@ suited	2
 sulking	-2
 sulky	-2
 sullen	-2
+μουντός -2
+//Nanou Nastika-Navsika 2013015 CSCW
 sunshine	2
 super	3
 superb	5
@@ -3032,6 +3088,8 @@ thwarted	-2
 thwarting	-2
 thwarts	-2
 timid	-2
+δειλός -2
+//Nanou Nastika-Navsika 2013015 CSCW
 timorous	-2
 tired	-2
 tits	-2
@@ -3047,6 +3105,8 @@ tortures	-4
 torturing	-4
 totalitarian	-2
 totalitarianism	-2
+ολοκληρωτισμός -2
+//Nanou Nastika-Navsika 2013015 CSCW
 tout	-2
 touted	-2
 touting	-2
@@ -3310,6 +3370,8 @@ well-focused	2
 well-groomed	2
 well-proportioned	2
 whimsical	1
+ιδιόρρυθμος 1
+//Nanou Nastika-Navsika 2013015 CSCW
 whitewash	-3
 whore	-4
 wicked	-2
